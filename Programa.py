@@ -1,7 +1,7 @@
 import aleatorio
 import convertidor
 import mostrar
-ciclos=6
+ciclos=60
 CANTP=input("INGRESE LA CANTIDAD DE PUESTOS DISPONIBLES: ")
 CANTP=int(CANTP)
 archivo = open("Resultado.txt", "w")
@@ -96,7 +96,7 @@ for i in range(ciclos):
             if CY==(CANTP+1):
                 CP=0
 
-
+        
         if T <= TC[CY]:
             STE[CY]=STE[CY]+(TC[CY]-T)
             TC[CY]=TC[CY]+TA
@@ -163,15 +163,17 @@ for i in range(ciclos):
     for i in PTO:
         mostrar.imprimir(i,archivo)
     archivo.write("Tiempo excedido promedio: "+ '\n')
+    for i in PTEX:
+        mostrar.imprimir(i,archivo)
 
 archivo.close()
 
 for i in range(CANTP):
-    SPPS[i]=SPPS[i]/dias
-    SPTE[i]=SPTE[i]/dias
-    SPTA[i]=SPTA[i]/dias
-    SPTO[i]=SPTO[i]/dias
-    SPTEX[i]=SPTEX[i]/dias
+    SPPS[i]=SPPS[i]/ciclos
+    SPTE[i]=SPTE[i]/ciclos
+    SPTA[i]=SPTA[i]/ciclos
+    SPTO[i]=SPTO[i]/ciclos
+    SPTEX[i]=SPTEX[i]/ciclos
 
 
 
