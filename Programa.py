@@ -1,7 +1,7 @@
 import aleatorio
 import convertidor
 import mostrar
-ciclos=60
+ciclos=15
 CANTP=input("INGRESE LA CANTIDAD DE PUESTOS DISPONIBLES: ")
 CANTP=int(CANTP)
 archivo = open("Resultado.txt", "w")
@@ -96,7 +96,7 @@ for i in range(ciclos):
             if CY==(CANTP+1):
                 CP=0
 
-        
+
         if T <= TC[CY]:
             STE[CY]=STE[CY]+(TC[CY]-T)
             TC[CY]=TC[CY]+TA
