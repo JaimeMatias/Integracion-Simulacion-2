@@ -1,24 +1,1560 @@
+CORRIDA NUMERO: 0
 Promedio de Permanencia: 
-1:37:46
-1:58:10
-2:8:38
-1:49:45
-1:46:45
+3:2:39
+3:8:40
+3:7:28
+2:47:37
+3:5:48
 Promedio Tiempo Espera: 
-0:26:57
-0:28:18
-0:33:21
-0:30:22
-0:23:55
+1:29:37
+1:26:4
+1:28:44
+1:20:31
+1:18:51
 Promedio Tiempo Atencion: 
-1:10:49
-1:29:52
-1:35:16
-1:19:23
-1:22:50
+1:33:1
+1:42:35
+1:38:44
+1:27:5
+1:46:57
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:8
+0:0:6
+0:0:4
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 1
+Promedio de Permanencia: 
+2:18:36
+2:30:31
+2:57:55
+2:47:23
+2:31:54
+Promedio Tiempo Espera: 
+0:57:16
+1:6:48
+1:11:50
+1:8:2
+1:15:21
+Promedio Tiempo Atencion: 
+1:21:19
+1:23:43
+1:46:4
+1:39:21
+1:16:32
+Promedio Tiempo Oscioso: 
+0:0:1
+0:0:8
+0:0:6
+0:0:4
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 2
+Promedio de Permanencia: 
+2:44:16
+2:41:30
+3:9:36
+2:55:55
+2:43:19
+Promedio Tiempo Espera: 
+1:16:20
+1:2:42
+1:21:40
+1:21:18
+1:15:35
+Promedio Tiempo Atencion: 
+1:27:55
+1:38:48
+1:47:56
+1:34:37
+1:27:43
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:9
+0:0:6
+0:0:4
+0:0:3
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 3
+Promedio de Permanencia: 
+1:47:7
+2:13:43
+2:42:13
+1:53:34
+2:11:50
+Promedio Tiempo Espera: 
+0:33:59
+0:34:18
+0:50:17
+0:38:41
+0:35:1
+Promedio Tiempo Atencion: 
+1:13:8
+1:39:25
+1:51:55
+1:14:52
+1:36:49
+Promedio Tiempo Oscioso: 
+0:0:3
+0:0:10
+0:0:7
+0:0:5
+0:0:7
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 4
+Promedio de Permanencia: 
+2:10:43
+1:54:27
+1:58:38
+2:22:44
+1:53:44
+Promedio Tiempo Espera: 
+0:34:0
+0:34:0
+0:41:49
+0:44:35
+0:37:13
+Promedio Tiempo Atencion: 
+1:36:42
+1:20:26
+1:16:49
+1:38:8
+1:16:30
+Promedio Tiempo Oscioso: 
+0:0:1
+0:0:11
+0:0:8
+0:0:4
+0:0:1
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 5
+Promedio de Permanencia: 
+2:43:40
+3:7:34
+3:13:1
+3:21:0
+2:53:46
+Promedio Tiempo Espera: 
+1:36:19
+1:33:52
+1:28:20
+1:30:8
+1:30:7
+Promedio Tiempo Atencion: 
+1:7:20
+1:33:41
+1:44:40
+1:50:51
+1:23:39
+Promedio Tiempo Oscioso: 
+0:0:3
+0:0:8
+0:0:6
+0:0:4
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 6
+Promedio de Permanencia: 
+2:55:24
+3:7:18
+3:5:42
+3:1:26
+3:11:17
+Promedio Tiempo Espera: 
+1:17:49
+1:28:51
+1:32:49
+1:37:49
+1:26:6
+Promedio Tiempo Atencion: 
+1:37:35
+1:38:27
+1:32:53
+1:23:37
+1:45:10
 Promedio Tiempo Oscioso: 
 0:0:0
 0:0:9
 0:0:7
+0:0:5
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 7
+Promedio de Permanencia: 
+2:22:44
+2:35:18
+2:23:6
+2:56:18
+2:34:1
+Promedio Tiempo Espera: 
+1:1:59
+1:2:33
+1:7:14
+1:9:41
+1:2:43
+Promedio Tiempo Atencion: 
+1:20:45
+1:32:44
+1:15:52
+1:46:37
+1:31:17
+Promedio Tiempo Oscioso: 
+0:0:6
+0:0:9
+0:0:6
+0:0:5
+0:0:6
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 8
+Promedio de Permanencia: 
+3:3:54
+3:0:47
+3:8:11
+3:10:24
+2:46:13
+Promedio Tiempo Espera: 
+1:23:35
+1:33:59
+1:30:49
+1:24:15
+1:16:10
+Promedio Tiempo Atencion: 
+1:40:19
+1:26:48
+1:37:22
+1:46:8
+1:30:2
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:8
+0:0:6
+0:0:8
+0:0:5
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 9
+Promedio de Permanencia: 
+2:37:59
+2:52:45
+2:26:20
+2:33:5
+2:42:3
+Promedio Tiempo Espera: 
+1:6:54
+1:12:12
+1:7:58
+1:2:10
+1:2:15
+Promedio Tiempo Atencion: 
+1:31:5
+1:40:33
+1:18:21
+1:30:55
+1:39:47
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:9
+0:0:6
+0:0:4
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 10
+Promedio de Permanencia: 
+2:0:2
+2:16:13
+2:4:14
+2:15:40
+1:59:38
+Promedio Tiempo Espera: 
+0:35:3
+0:48:56
+0:35:31
+0:40:50
+0:35:59
+Promedio Tiempo Atencion: 
+1:24:58
+1:27:17
+1:28:43
+1:34:49
+1:23:38
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:8
+0:0:6
+0:0:3
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 11
+Promedio de Permanencia: 
+2:57:7
+2:44:44
+2:58:22
+2:27:55
+2:41:14
+Promedio Tiempo Espera: 
+1:10:36
+1:0:52
+1:21:54
+1:5:15
+1:11:21
+Promedio Tiempo Atencion: 
+1:46:30
+1:43:51
+1:36:27
+1:22:39
+1:29:52
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:10
+0:0:6
+0:0:6
+0:0:4
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 12
+Promedio de Permanencia: 
+2:0:1
+1:58:3
+1:47:55
+1:47:29
+2:5:21
+Promedio Tiempo Espera: 
+0:24:47
+0:28:54
+0:24:4
+0:32:32
+0:32:4
+Promedio Tiempo Atencion: 
+1:35:14
+1:29:9
+1:23:51
+1:14:56
+1:33:17
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:7
+0:0:6
+0:0:4
+0:0:1
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 13
+Promedio de Permanencia: 
+2:35:46
+2:25:26
+2:26:42
+2:31:18
+2:16:44
+Promedio Tiempo Espera: 
+0:58:21
+0:55:51
+1:1:6
+0:59:44
+0:49:28
+Promedio Tiempo Atencion: 
+1:37:25
+1:29:35
+1:25:36
+1:31:34
+1:27:16
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:8
+0:0:7
+0:0:4
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 14
+Promedio de Permanencia: 
+2:3:2
+2:12:33
+2:7:11
+2:6:16
+2:10:16
+Promedio Tiempo Espera: 
+0:45:53
+0:46:21
+0:42:21
+0:30:48
+0:38:17
+Promedio Tiempo Atencion: 
+1:17:8
+1:26:12
+1:24:50
+1:35:28
+1:31:58
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:6
+0:0:4
 0:0:3
 0:0:1
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 15
+Promedio de Permanencia: 
+2:31:19
+2:38:5
+2:30:2
+2:30:56
+2:37:28
+Promedio Tiempo Espera: 
+0:59:36
+1:7:5
+1:0:39
+1:7:37
+1:7:28
+Promedio Tiempo Atencion: 
+1:31:43
+1:31:0
+1:29:22
+1:23:18
+1:29:59
+Promedio Tiempo Oscioso: 
+0:0:2
+0:0:10
+0:0:7
+0:0:5
+0:0:3
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 16
+Promedio de Permanencia: 
+2:6:14
+2:18:36
+2:16:27
+2:21:37
+2:21:23
+Promedio Tiempo Espera: 
+0:37:32
+0:40:50
+0:49:40
+0:53:24
+0:43:42
+Promedio Tiempo Atencion: 
+1:28:41
+1:37:46
+1:26:47
+1:28:12
+1:37:40
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:8
+0:0:6
+0:0:5
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 17
+Promedio de Permanencia: 
+2:24:40
+2:27:2
+2:50:3
+2:21:54
+2:29:19
+Promedio Tiempo Espera: 
+0:52:59
+0:56:54
+0:58:59
+0:58:29
+0:47:53
+Promedio Tiempo Atencion: 
+1:31:40
+1:30:7
+1:51:3
+1:23:24
+1:41:25
+Promedio Tiempo Oscioso: 
+0:0:1
+0:0:9
+0:0:6
+0:0:4
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 18
+Promedio de Permanencia: 
+2:38:5
+2:16:24
+2:39:6
+2:29:1
+2:19:56
+Promedio Tiempo Espera: 
+0:58:51
+0:57:47
+1:1:38
+1:2:16
+0:53:7
+Promedio Tiempo Atencion: 
+1:39:13
+1:18:36
+1:37:27
+1:26:44
+1:26:48
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:10
+0:0:8
+0:0:6
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 19
+Promedio de Permanencia: 
+2:45:38
+2:46:8
+3:23:33
+3:1:13
+2:37:21
+Promedio Tiempo Espera: 
+1:21:34
+1:15:22
+1:29:57
+1:15:8
+1:11:45
+Promedio Tiempo Atencion: 
+1:24:3
+1:30:45
+1:53:36
+1:46:5
+1:25:36
+Promedio Tiempo Oscioso: 
+0:0:4
+0:0:9
+0:0:7
+0:0:4
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 20
+Promedio de Permanencia: 
+2:39:15
+2:41:52
+3:0:2
+2:42:49
+3:1:1
+Promedio Tiempo Espera: 
+1:8:5
+1:13:45
+1:15:20
+1:12:24
+1:19:16
+Promedio Tiempo Atencion: 
+1:31:10
+1:28:7
+1:44:41
+1:30:25
+1:41:45
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:9
+0:0:7
+0:0:4
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 21
+Promedio de Permanencia: 
+3:11:33
+3:46:3
+3:22:16
+3:25:59
+3:34:51
+Promedio Tiempo Espera: 
+1:35:16
+2:3:42
+1:45:9
+1:44:9
+1:48:59
+Promedio Tiempo Atencion: 
+1:36:17
+1:42:21
+1:37:6
+1:41:49
+1:45:52
+Promedio Tiempo Oscioso: 
+0:0:4
+0:0:10
+0:0:7
+0:0:6
+0:0:5
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 22
+Promedio de Permanencia: 
+3:6:33
+2:58:37
+2:39:20
+2:41:45
+2:35:3
+Promedio Tiempo Espera: 
+1:11:49
+1:24:51
+1:15:20
+1:5:24
+1:9:54
+Promedio Tiempo Atencion: 
+1:54:44
+1:33:45
+1:23:59
+1:36:21
+1:25:8
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:9
+0:0:9
+0:0:6
+0:0:3
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 23
+Promedio de Permanencia: 
+1:58:11
+2:5:24
+2:8:37
+2:9:2
+2:13:11
+Promedio Tiempo Espera: 
+0:34:14
+0:40:0
+0:37:13
+0:32:3
+0:36:57
+Promedio Tiempo Atencion: 
+1:23:56
+1:25:23
+1:31:24
+1:36:58
+1:36:14
+Promedio Tiempo Oscioso: 
+0:0:5
+0:0:9
+0:0:8
+0:0:6
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 24
+Promedio de Permanencia: 
+3:4:45
+3:20:10
+3:36:10
+3:22:45
+3:6:54
+Promedio Tiempo Espera: 
+1:37:22
+1:52:15
+1:42:51
+1:52:12
+1:45:49
+Promedio Tiempo Atencion: 
+1:27:22
+1:27:54
+1:53:18
+1:30:33
+1:21:4
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:8
+0:0:6
+0:0:3
+0:0:1
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 25
+Promedio de Permanencia: 
+2:14:23
+2:25:20
+2:14:54
+2:30:58
+2:50:12
+Promedio Tiempo Espera: 
+0:49:37
+0:51:32
+0:57:16
+0:51:50
+1:5:24
+Promedio Tiempo Atencion: 
+1:24:45
+1:33:47
+1:17:38
+1:39:8
+1:44:48
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:8
+0:0:6
+0:0:3
+0:0:1
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 26
+Promedio de Permanencia: 
+3:8:17
+3:1:2
+3:15:17
+2:56:19
+2:50:49
+Promedio Tiempo Espera: 
+1:26:26
+1:24:0
+1:44:3
+1:25:52
+1:20:23
+Promedio Tiempo Atencion: 
+1:41:50
+1:37:1
+1:31:14
+1:30:27
+1:30:25
+Promedio Tiempo Oscioso: 
+0:0:2
+0:0:9
+0:0:6
+0:0:3
+0:0:1
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 27
+Promedio de Permanencia: 
+2:38:0
+2:46:18
+2:48:16
+2:43:12
+2:34:33
+Promedio Tiempo Espera: 
+1:0:17
+1:10:52
+1:11:53
+1:11:51
+1:4:51
+Promedio Tiempo Atencion: 
+1:37:42
+1:35:25
+1:36:22
+1:31:21
+1:29:41
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:8
+0:0:5
+0:0:4
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 28
+Promedio de Permanencia: 
+2:42:10
+3:13:26
+3:18:30
+3:27:27
+3:22:30
+Promedio Tiempo Espera: 
+1:26:54
+1:38:49
+1:30:18
+1:50:30
+1:33:0
+Promedio Tiempo Atencion: 
+1:15:16
+1:34:36
+1:48:11
+1:36:56
+1:49:30
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:10
+0:0:7
+0:0:5
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 29
+Promedio de Permanencia: 
+2:51:22
+2:46:1
+2:47:36
+2:42:29
+2:46:23
+Promedio Tiempo Espera: 
+1:15:46
+1:14:1
+1:15:2
+1:13:43
+1:18:46
+Promedio Tiempo Atencion: 
+1:35:35
+1:31:59
+1:32:34
+1:28:45
+1:27:36
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:10
+0:0:7
+0:0:5
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 30
+Promedio de Permanencia: 
+2:13:8
+2:18:47
+2:33:22
+2:35:54
+2:28:33
+Promedio Tiempo Espera: 
+0:51:4
+1:1:36
+1:1:12
+0:54:30
+0:57:16
+Promedio Tiempo Atencion: 
+1:22:4
+1:17:10
+1:32:9
+1:41:23
+1:31:16
+Promedio Tiempo Oscioso: 
+0:0:2
+0:0:11
+0:0:8
+0:0:5
+0:0:5
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 31
+Promedio de Permanencia: 
+2:41:50
+3:0:4
+2:45:20
+2:27:33
+2:53:41
+Promedio Tiempo Espera: 
+1:9:43
+1:27:4
+1:16:54
+1:6:26
+1:23:34
+Promedio Tiempo Atencion: 
+1:32:7
+1:33:0
+1:28:26
+1:21:6
+1:30:7
+Promedio Tiempo Oscioso: 
+0:0:2
+0:0:9
+0:0:7
+0:0:6
+0:0:1
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 32
+Promedio de Permanencia: 
+2:37:34
+2:42:36
+2:51:45
+2:49:33
+3:2:17
+Promedio Tiempo Espera: 
+1:13:17
+1:11:8
+1:21:45
+1:15:5
+1:29:30
+Promedio Tiempo Atencion: 
+1:24:16
+1:31:27
+1:30:0
+1:34:28
+1:32:46
+Promedio Tiempo Oscioso: 
+0:0:1
+0:0:8
+0:0:5
+0:0:3
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 33
+Promedio de Permanencia: 
+2:10:21
+2:11:12
+2:22:3
+2:10:31
+2:14:17
+Promedio Tiempo Espera: 
+0:42:20
+0:35:22
+0:40:18
+0:44:3
+0:47:47
+Promedio Tiempo Atencion: 
+1:28:0
+1:35:50
+1:41:45
+1:26:28
+1:26:29
+Promedio Tiempo Oscioso: 
+0:0:1
+0:0:9
+0:0:6
+0:0:4
+0:0:1
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 34
+Promedio de Permanencia: 
+1:57:50
+2:17:16
+2:11:34
+2:15:6
+1:56:57
+Promedio Tiempo Espera: 
+0:37:0
+0:36:3
+0:38:14
+0:35:50
+0:38:23
+Promedio Tiempo Atencion: 
+1:20:49
+1:41:12
+1:33:19
+1:39:16
+1:18:34
+Promedio Tiempo Oscioso: 
+0:0:3
+0:0:9
+0:0:7
+0:0:4
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 35
+Promedio de Permanencia: 
+2:19:3
+2:25:21
+2:25:48
+2:24:2
+2:11:0
+Promedio Tiempo Espera: 
+0:50:55
+0:50:28
+0:45:34
+0:51:38
+0:39:59
+Promedio Tiempo Atencion: 
+1:28:7
+1:34:52
+1:40:14
+1:32:23
+1:31:0
+Promedio Tiempo Oscioso: 
+0:0:3
+0:0:11
+0:0:8
+0:0:5
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 36
+Promedio de Permanencia: 
+2:50:27
+2:31:50
+3:7:22
+2:33:35
+2:39:7
+Promedio Tiempo Espera: 
+1:15:14
+1:4:6
+1:11:6
+1:12:24
+1:9:44
+Promedio Tiempo Atencion: 
+1:35:12
+1:27:44
+1:56:15
+1:21:11
+1:29:23
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:8
+0:0:6
+0:0:4
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 37
+Promedio de Permanencia: 
+1:56:48
+2:13:5
+2:10:38
+2:2:3
+2:17:47
+Promedio Tiempo Espera: 
+0:43:33
+0:42:7
+0:36:7
+0:37:48
+0:40:15
+Promedio Tiempo Atencion: 
+1:13:15
+1:30:58
+1:34:31
+1:24:15
+1:37:31
+Promedio Tiempo Oscioso: 
+0:0:3
+0:0:10
+0:0:6
+0:0:5
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 38
+Promedio de Permanencia: 
+2:49:41
+2:45:17
+2:20:20
+2:24:15
+2:47:19
+Promedio Tiempo Espera: 
+1:5:21
+1:0:15
+0:58:16
+0:57:44
+1:3:59
+Promedio Tiempo Atencion: 
+1:44:19
+1:45:1
+1:22:3
+1:26:31
+1:43:20
+Promedio Tiempo Oscioso: 
+0:0:2
+0:0:7
+0:0:7
+0:0:3
+0:0:1
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 39
+Promedio de Permanencia: 
+2:0:48
+2:34:59
+2:13:8
+2:7:23
+1:48:7
+Promedio Tiempo Espera: 
+0:34:16
+0:44:52
+0:43:0
+0:43:37
+0:35:46
+Promedio Tiempo Atencion: 
+1:26:31
+1:50:7
+1:30:8
+1:23:46
+1:12:21
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:8
+0:0:5
+0:0:3
+0:0:1
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 40
+Promedio de Permanencia: 
+2:5:35
+1:50:24
+2:1:8
+1:51:29
+1:55:14
+Promedio Tiempo Espera: 
+0:36:32
+0:31:31
+0:35:46
+0:30:22
+0:30:8
+Promedio Tiempo Atencion: 
+1:29:2
+1:18:53
+1:25:22
+1:21:7
+1:25:6
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:13
+0:0:7
+0:0:4
+0:0:5
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 41
+Promedio de Permanencia: 
+2:14:30
+2:21:40
+2:1:52
+2:36:57
+2:14:52
+Promedio Tiempo Espera: 
+0:45:43
+0:53:49
+0:47:38
+0:55:30
+0:46:24
+Promedio Tiempo Atencion: 
+1:28:46
+1:27:50
+1:14:13
+1:41:26
+1:28:28
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:8
+0:0:6
+0:0:4
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 42
+Promedio de Permanencia: 
+2:37:40
+2:47:39
+3:13:44
+2:25:46
+2:38:51
+Promedio Tiempo Espera: 
+1:4:51
+1:13:43
+1:16:7
+1:9:53
+1:12:33
+Promedio Tiempo Atencion: 
+1:32:48
+1:33:55
+1:57:37
+1:15:52
+1:26:17
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:8
+0:0:6
+0:0:4
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 43
+Promedio de Permanencia: 
+2:55:21
+2:35:51
+2:44:40
+2:39:30
+2:42:6
+Promedio Tiempo Espera: 
+1:18:9
+1:13:51
+1:10:24
+1:6:56
+1:9:52
+Promedio Tiempo Atencion: 
+1:37:12
+1:22:0
+1:34:16
+1:32:34
+1:32:14
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:9
+0:0:7
+0:0:4
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 44
+Promedio de Permanencia: 
+2:22:44
+2:22:55
+2:16:47
+2:10:5
+2:33:35
+Promedio Tiempo Espera: 
+0:51:50
+0:49:30
+0:57:24
+0:51:14
+0:55:35
+Promedio Tiempo Atencion: 
+1:30:54
+1:33:25
+1:19:22
+1:18:51
+1:37:59
+Promedio Tiempo Oscioso: 
+0:0:1
+0:0:13
+0:0:8
+0:0:8
+0:0:8
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 45
+Promedio de Permanencia: 
+2:6:14
+1:53:58
+2:6:1
+1:43:44
+2:13:51
+Promedio Tiempo Espera: 
+0:29:14
+0:36:37
+0:33:45
+0:28:2
+0:29:40
+Promedio Tiempo Atencion: 
+1:36:59
+1:17:20
+1:32:15
+1:15:42
+1:44:11
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:10
+0:0:7
+0:0:5
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 46
+Promedio de Permanencia: 
+1:50:21
+1:53:31
+1:37:2
+1:57:58
+2:1:39
+Promedio Tiempo Espera: 
+0:25:14
+0:32:37
+0:28:7
+0:24:52
+0:27:57
+Promedio Tiempo Atencion: 
+1:25:6
+1:20:53
+1:8:55
+1:33:5
+1:33:42
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:7
+0:0:5
+0:0:3
+0:0:1
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 47
+Promedio de Permanencia: 
+2:25:2
+2:18:7
+2:17:6
+2:9:10
+2:7:7
+Promedio Tiempo Espera: 
+0:56:56
+0:54:23
+0:40:9
+0:35:59
+0:49:15
+Promedio Tiempo Atencion: 
+1:28:6
+1:23:43
+1:36:56
+1:33:10
+1:17:52
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:9
+0:0:7
+0:0:6
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 48
+Promedio de Permanencia: 
+2:38:52
+2:37:46
+3:3:58
+2:35:55
+2:33:3
+Promedio Tiempo Espera: 
+1:1:6
+1:4:55
+1:24:46
+1:1:36
+1:7:38
+Promedio Tiempo Atencion: 
+1:37:46
+1:32:51
+1:39:11
+1:34:19
+1:25:25
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:7
+0:0:5
+0:0:3
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 49
+Promedio de Permanencia: 
+2:25:34
+2:23:55
+2:24:22
+2:25:52
+2:23:47
+Promedio Tiempo Espera: 
+0:54:26
+1:1:27
+0:55:27
+0:49:3
+0:52:2
+Promedio Tiempo Atencion: 
+1:31:8
+1:22:28
+1:28:54
+1:36:49
+1:31:44
+Promedio Tiempo Oscioso: 
+0:0:1
+0:0:9
+0:0:6
+0:0:3
+0:0:3
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 50
+Promedio de Permanencia: 
+2:30:41
+2:36:44
+2:47:11
+2:34:51
+2:14:28
+Promedio Tiempo Espera: 
+1:4:41
+0:59:7
+1:9:18
+1:3:1
+1:4:53
+Promedio Tiempo Atencion: 
+1:26:0
+1:37:36
+1:37:52
+1:31:49
+1:9:34
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:8
+0:0:6
+0:0:4
+0:0:1
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 51
+Promedio de Permanencia: 
+2:32:26
+2:25:52
+2:28:40
+2:18:27
+2:17:6
+Promedio Tiempo Espera: 
+0:56:19
+0:55:2
+1:0:51
+0:58:27
+0:50:59
+Promedio Tiempo Atencion: 
+1:36:7
+1:30:49
+1:27:49
+1:19:59
+1:26:7
+Promedio Tiempo Oscioso: 
+0:0:3
+0:0:7
+0:0:7
+0:0:4
+0:0:3
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 52
+Promedio de Permanencia: 
+3:22:48
+3:39:18
+3:15:58
+3:6:24
+3:29:2
+Promedio Tiempo Espera: 
+1:48:4
+2:0:25
+1:37:15
+1:38:54
+1:51:45
+Promedio Tiempo Atencion: 
+1:34:44
+1:38:53
+1:38:43
+1:27:30
+1:37:17
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:6
+0:0:5
+0:0:3
+0:0:1
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 53
+Promedio de Permanencia: 
+2:25:40
+2:51:21
+2:48:48
+2:54:46
+2:38:38
+Promedio Tiempo Espera: 
+0:58:30
+1:20:38
+1:19:33
+1:16:16
+1:3:26
+Promedio Tiempo Atencion: 
+1:27:9
+1:30:42
+1:29:14
+1:38:30
+1:35:12
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:9
+0:0:7
+0:0:6
+0:0:4
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 54
+Promedio de Permanencia: 
+3:45:18
+3:40:4
+3:26:40
+3:46:43
+3:48:23
+Promedio Tiempo Espera: 
+1:54:20
+2:2:7
+2:0:8
+2:5:32
+2:0:0
+Promedio Tiempo Atencion: 
+1:50:58
+1:37:56
+1:26:31
+1:41:10
+1:48:22
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:9
+0:0:6
+0:0:5
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 55
+Promedio de Permanencia: 
+2:20:33
+2:22:17
+2:22:7
+1:59:10
+2:10:14
+Promedio Tiempo Espera: 
+0:43:34
+0:47:21
+0:46:27
+0:44:43
+0:41:7
+Promedio Tiempo Atencion: 
+1:36:58
+1:34:56
+1:35:40
+1:14:27
+1:29:7
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:9
+0:0:8
+0:0:4
+0:0:4
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 56
+Promedio de Permanencia: 
+2:33:25
+2:28:39
+2:17:38
+2:32:26
+2:19:24
+Promedio Tiempo Espera: 
+1:3:57
+0:59:29
+0:59:51
+1:8:23
+0:54:57
+Promedio Tiempo Atencion: 
+1:29:28
+1:29:9
+1:17:46
+1:24:3
+1:24:26
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:7
+0:0:6
+0:0:4
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 57
+Promedio de Permanencia: 
+2:24:40
+2:36:46
+2:33:34
+2:26:10
+2:33:21
+Promedio Tiempo Espera: 
+1:0:50
+1:3:44
+1:3:59
+1:2:45
+1:0:29
+Promedio Tiempo Atencion: 
+1:23:50
+1:33:1
+1:29:35
+1:23:25
+1:32:51
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:8
+0:0:6
+0:0:4
+0:0:1
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 58
+Promedio de Permanencia: 
+2:42:57
+2:51:52
+2:51:50
+2:39:3
+2:45:33
+Promedio Tiempo Espera: 
+1:7:36
+1:13:29
+1:19:40
+1:14:31
+1:18:14
+Promedio Tiempo Atencion: 
+1:35:20
+1:38:23
+1:32:9
+1:24:32
+1:27:19
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:8
+0:0:6
+0:0:5
+0:0:2
+Tiempo excedido promedio: 
+CORRIDA NUMERO: 59
+Promedio de Permanencia: 
+1:57:34
+2:13:25
+2:3:8
+2:9:9
+2:31:9
+Promedio Tiempo Espera: 
+0:37:55
+0:38:40
+0:45:58
+0:47:19
+0:46:40
+Promedio Tiempo Atencion: 
+1:19:38
+1:34:44
+1:17:9
+1:21:49
+1:44:28
+Promedio Tiempo Oscioso: 
+0:0:0
+0:0:9
+0:0:7
+0:0:5
+0:0:2
+Tiempo excedido promedio: 
