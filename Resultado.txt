@@ -1,0 +1,24 @@
+Promedio de Permanencia: 
+0:10:44
+0:9:52
+0:10:21
+0:10:2
+0:10:6
+Promedio Tiempo Espera: 
+0:0:0
+0:0:0
+0:0:0
+0:0:0
+0:0:0
+Promedio Tiempo Atencion: 
+0:10:44
+0:9:52
+0:10:21
+0:10:2
+0:10:6
+Promedio Tiempo Oscioso: 
+0:0:57
+0:1:1
+0:0:59
+0:1:0
+0:0:57
