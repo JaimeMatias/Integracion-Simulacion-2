@@ -1,11 +1,11 @@
 import aleatorio
 import convertidor
 import mostrar
-ciclos=15
+ciclos=30
 CANTP=input("INGRESE LA CANTIDAD DE PUESTOS DISPONIBLES: ")
 CANTP=int(CANTP)
 archivo = open("Resultado.txt", "w")
-archivo2=open("PROMEDIOS.txt","w")
+archivo2=open("PROMEDIOS"+str(CANTP)+".txt","w")
 SPPS=[] #Promedio de Tiempo de Permanencia en cada cola
 for i in range(CANTP):
     SPPS.append(0)
@@ -144,11 +144,11 @@ for i in range(ciclos):
         mostrar.mostrar(i)
     print("Promedio Tiempo Oscioso: ")
     for i in PTO:
-        mostrar.mostrar(i)
+        print(round(i,4))
 
     print("promedio Tiempo de Demora: ")
     for i in PTEX:
-        print(i)
+        print(round(i,4))
 
     archivo.write("Promedio de Permanencia: "+ '\n')
     for i in PPS:
@@ -159,9 +159,9 @@ for i in range(ciclos):
     archivo.write("Promedio Tiempo Atencion: "+ '\n')
     for i in PTA:
         mostrar.imprimir(i,archivo)
-    archivo.write("Promedio Tiempo Oscioso: "+ '\n')
+    archivo.write("Porcentaje Tiempo Oscioso: "+ '\n')
     for i in PTO:
-        mostrar.imprimir(i,archivo)
+        archivo.write(str(i)+ '\n')
     archivo.write("Tiempo excedido promedio: "+ '\n')
     for i in PTEX:
         mostrar.imprimir(i,archivo)
@@ -186,13 +186,14 @@ for i in SPTE:
 archivo2.write("Promedio Tiempo Atencion: "+ '\n')
 for i in SPTA:
     mostrar.imprimir(i,archivo2)
-archivo2.write("Promedio Tiempo Oscioso: "+ '\n')
+archivo2.write("Porcentaje Tiempo Oscioso: "+ '\n')
 for i in SPTO:
-    mostrar.imprimir(i,archivo2)
+    archivo2.write(str(round(i,2))+" "+"%"+ '\n')
 archivo2.write("Tiempo excedido promedio: "+ '\n')
 for i in SPTEX:
     mostrar.imprimir(i,archivo2)
 archivo2.close()
+print("Los promedios se encuentran Almacenados en el archivo 'PROMEDIOS.TXT'")
 print("EL Resultado se encuentra Almacenados en el archivo 'Resultado.txt'")
 
 
