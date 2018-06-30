@@ -1,7 +1,7 @@
 import aleatorio
 import convertidor
 import mostrar
-ciclos=30
+ciclos=300
 CANTP=input("INGRESE LA CANTIDAD DE PUESTOS DISPONIBLES: ")
 CANTP=int(CANTP)
 archivo = open("Resultado.txt", "w")
@@ -130,7 +130,7 @@ for i in range(ciclos):
         PTEX[N4]=STEX[N4]
         SPTEX[N4]=SPTEX[N4]+PTEX[N4]
         N4=N4+1
-
+    """
     print("Promedio de Permanencia: ")
     for i in PPS:
         mostrar.mostrar(i)
@@ -149,7 +149,7 @@ for i in range(ciclos):
     print("promedio Tiempo de Demora: ")
     for i in PTEX:
         print(round(i,4))
-
+    """
     archivo.write("Promedio de Permanencia: "+ '\n')
     for i in PPS:
         mostrar.imprimir(i,archivo)
