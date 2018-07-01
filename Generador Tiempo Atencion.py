@@ -18,7 +18,8 @@ while contador <= CANTP:
     contador=contador+1
     print(VARIABLE)
     archivo.write(str(VARIABLE)+ '\n')
-print("Los Numeros Fueron Almacenados en el Archivo 'Generador1.txt'")
+print("Los Numeros Fueron Almacenados en la carpeta 'Generador Atencion'")
+print("Los Numeros Fueron Almacenados en el Archivo 'GeneradorTiempoAtencion.txt'")
 input("Numeros Generados, Presione Cualquier tecla")
 archivo.close()
 if os.path.exists("Generdor Atencion"):

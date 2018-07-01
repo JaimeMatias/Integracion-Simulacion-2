@@ -19,10 +19,11 @@ while contador <= CANTP:
     contador=contador+1
     print(VARIABLE)
     archivo.write(str(VARIABLE)+ '\n')
-print("Los Numeros Fueron Almacenados en el Archivo 'Generador1.txt'")
+print("Los Numeros Fueron Almacenados en la carpeta 'Generador Llegada'")
+print("Los Numeros Fueron Almacenados en el Archivo 'GeneradorTiempoLlegada.txt'")
 input("Numeros Generados, Presione Cualquier tecla")
 archivo.close()
 if os.path.exists("Generdor LLegada"):
     shutil.rmtree('Generdor LLegada')
 os.mkdir("Generdor LLegada")
-shutil.move("GeneradorTiempoLlegada.txt", "Generdor LLegada")
+shutil.move("GeneradorTiempoLlegada.txt", "Generador Llegada")
