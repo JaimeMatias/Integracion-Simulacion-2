@@ -2,6 +2,12 @@ import aleatorio
 import convertidor
 import mostrar
 ciclos=300
+print("\x1b[1;33m"+"La función de probabilidad de LLegada es una funcion uniforme que oscila entre:")
+print("Limite Inferior: 00:10:00")
+print("Limite Superior: 00:20:00")
+print("\x1b[1;33m"+"La función de probabilidad de Atencion es una funcion uniforme que oscila entre:")
+print("Limite Inferior: 00:45:00")
+print("Limite Inferior: 2:30:00")
 CANTP=input("INGRESE LA CANTIDAD DE PUESTOS DISPONIBLES: ")
 CANTP=int(CANTP)
 archivo = open("Resultado.txt", "w")
